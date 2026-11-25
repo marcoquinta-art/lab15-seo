@@ -1,4 +1,5 @@
+
 User-agent: *
 Allow: /
 
-Sitemap: https://https://lab15-seo-xi.vercel.app//sitemap.xml
+Sitemap: https://lab15-seo-xi.vercel.app/sitemap.xml
